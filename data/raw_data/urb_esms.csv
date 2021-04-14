@@ -1,0 +1,1822 @@
+CODE,NAME
+AT001C1,Wien
+AT002C1,Graz
+AT003C1,Linz
+AT004C1,Salzburg
+AT005C1,Innsbruck
+AT006C1,Klagenfurt
+BE001C1,Bruxelles / Brussel
+BE002C1,Antwerpen
+BE003C1,Gent
+BE004C1,Charleroi
+BE005C1,Liège
+BE006C1,Brugge
+BE007C1,Namur
+BE008C1,Leuven
+BE009C1,Mons
+BE010C1,Kortrijk
+BE011C1,Oostende
+BG001C1,Sofia
+BG002C1,Plovdiv
+BG003C1,Varna
+BG004C1,Burgas
+BG005C1,Pleven
+BG006C1,Ruse
+BG007C1,Vidin
+BG008C1,Stara Zagora
+BG009C1,Sliven
+BG010C1,Dobrich
+BG011C1,Shumen
+BG012C1,Pernik
+BG013C1,Yambol
+BG014C1,Haskovo
+BG015C1,Pazardzhik
+BG016C1,Blagoevgrad
+BG017C1,Veliko Tarnovo
+BG018C1,Vratsa
+CH001C1,Zürich
+CH001K1,Zürich
+CH002C1,Genève
+CH002K1,Genève
+CH003C1,Basel
+CH003K1,Basel
+CH004C1,Bern
+CH004K1,Bern
+CH005C1,Lausanne
+CH005K1,Lausanne
+CH006C1,Winterthur
+CH007C1,St. Gallen
+CH008C1,Luzern
+CH008K1,Luzern
+CH009C2,Lugano
+CH009K1,Lugano
+CH010C1,Biel/Bienne
+CY001C1,Lefkosia
+CY501C1,Lemesos
+CZ001C1,Praha
+CZ002C1,Brno
+CZ003C1,Ostrava
+CZ004C1,Plzeň
+CZ005C1,Ústí nad Labem
+CZ006C1,Olomouc
+CZ007C1,Liberec
+CZ008C1,České Budějovice
+CZ009C1,Hradec Králové
+CZ010C1,Pardubice
+CZ011C1,Zlín
+CZ012C1,Kladno
+CZ013C1,Karlovy Vary
+CZ014C1,Jihlava
+CZ015C1,Havířov
+CZ016C1,Most
+CZ017C1,Karviná
+CZ018C2,Chomutov-Jirkov
+DE001C1,Berlin
+DE002C1,Hamburg
+DE003C1,München
+DE004C1,Köln
+DE005C1,Frankfurt am Main
+DE006C1,Essen
+DE007C1,Stuttgart
+DE008C1,Leipzig
+DE009C1,Dresden
+DE010C1,Dortmund
+DE011C1,Düsseldorf
+DE012C1,Bremen
+DE013C1,Hannover
+DE014C1,Nürnberg
+DE015C1,Bochum
+DE017C1,Bielefeld
+DE018C1,Halle an der Saale
+DE019C1,Magdeburg
+DE020C1,Wiesbaden
+DE021C1,Göttingen
+DE022C1,Mülheim a.d.Ruhr
+DE023C1,Moers
+DE025C1,Darmstadt
+DE026C1,Trier
+DE027C1,Freiburg im Breisgau
+DE028C1,Regensburg
+DE029C1,Frankfurt (Oder)
+DE030C1,Weimar
+DE031C1,Schwerin
+DE032C1,Erfurt
+DE033C1,Augsburg
+DE034C1,Bonn
+DE035C1,Karlsruhe
+DE036C1,Mönchengladbach
+DE037C1,Mainz
+DE039C1,Kiel
+DE040C1,Saarbrücken
+DE041C1,Potsdam
+DE042C1,Koblenz
+DE043C1,Rostock
+DE044C1,Kaiserslautern
+DE045C1,Iserlohn
+DE046C1,Esslingen am Neckar
+DE047C1,Hanau
+DE048C1,Wilhelmshaven
+DE049C1,Ludwigsburg
+DE050C1,Tübingen
+DE051C1,Villingen-Schwenningen
+DE052C1,Flensburg
+DE053C1,Marburg
+DE054C1,Konstanz
+DE055C1,Neumünster
+DE056C1,Brandenburg an der Havel
+DE057C1,Gießen
+DE058C1,Lüneburg
+DE059C1,Bayreuth
+DE060C1,Celle
+DE061C1,Aschaffenburg
+DE062C1,Bamberg
+DE063C1,Plauen
+DE064C1,Neubrandenburg
+DE065C1,Fulda
+DE066C1,Kempten (Allgäu)
+DE067C1,Landshut
+DE068C1,Sindelfingen
+DE069C1,Rosenheim
+DE070C1,Frankenthal (Pfalz)
+DE071C1,Stralsund
+DE072C1,Friedrichshafen
+DE073C1,Offenburg
+DE074C1,Görlitz
+DE075C1,Sankt Augustin
+DE076C1,Neu-Ulm
+DE077C1,Schweinfurt
+DE078C1,Greifswald
+DE079C1,Wetzlar
+DE080C1,Speyer
+DE081C1,Passau
+DE082C1,Dessau-Roßlau
+DE501C1,Duisburg
+DE502C1,Mannheim
+DE503C1,Gelsenkirchen
+DE504C1,Münster
+DE505C1,Chemnitz
+DE506C1,Braunschweig
+DE507C1,Aachen
+DE508C1,Krefeld
+DE509C1,Oberhausen
+DE510C1,Lübeck
+DE511C1,Hagen
+DE513C1,Kassel
+DE514C1,Hamm
+DE515C1,Herne
+DE516C1,Solingen
+DE517C1,Osnabrück
+DE518C1,Ludwigshafen am Rhein
+DE519C1,Leverkusen
+DE520C1,Oldenburg (Oldenburg)
+DE521C1,Neuss
+DE522C1,Heidelberg
+DE523C1,Paderborn
+DE524C1,Würzburg
+DE525C1,Recklinghausen
+DE526C1,Wolfsburg
+DE527C1,Bremerhaven
+DE528C1,Bottrop
+DE529C1,Heilbronn
+DE530C1,Remscheid
+DE531C1,Offenbach am Main
+DE532C1,Ulm
+DE533C1,Pforzheim
+DE534C1,Ingolstadt
+DE535C1,Gera
+DE536C1,Salzgitter
+DE537C1,Reutlingen
+DE538C1,Fürth
+DE539C1,Cottbus
+DE540C1,Siegen
+DE541C1,Bergisch Gladbach
+DE542C1,Hildesheim
+DE543C1,Witten
+DE544C1,Zwickau
+DE545C1,Erlangen
+DE546C1,Wuppertal
+DE547C1,Jena
+DE548C1,"Düren, Stadt"
+DE549C1,"Bocholt, Stadt"
+DK001C1,København
+DK001K2,København
+DK002C1,Århus
+DK003C1,Odense
+DK004C2,Aalborg
+EE001C1,Tallinn
+EE002C1,Tartu
+EE003C1,Narva
+ES001C1,Madrid
+ES001K1,Madrid
+ES002C1,Barcelona
+ES002K2,Barcelona
+ES003C1,Valencia
+ES003K1,Valencia
+ES004C1,Sevilla
+ES004K1,Sevilla
+ES005C1,Zaragoza
+ES006C1,Málaga
+ES007C1,Murcia
+ES008C1,Las Palmas
+ES009C1,Valladolid
+ES010C1,Palma de Mallorca
+ES011C1,Santiago de Compostela
+ES012C1,Vitoria/Gasteiz
+ES013C1,Oviedo
+ES014C1,Pamplona/Iruña
+ES014K1,Pamplona/Iruña
+ES015C1,Santander
+ES016C1,Toledo
+ES017C1,Badajoz
+ES018C1,Logroño
+ES019C1,Bilbao
+ES019K1,Bilbao
+ES020C1,Córdoba
+ES021C1,Alicante/Alacant
+ES022C1,Vigo
+ES023C1,Gijón
+ES024C1,L'Hospitalet de Llobregat
+ES025C1,Santa Cruz de Tenerife
+ES025K1,Santa Cruz de Tenerife
+ES026C1,A Coruña
+ES027C1,Barakaldo
+ES028C1,Reus
+ES029C1,Telde
+ES030C1,Parla
+ES031C1,Lugo
+ES032C1,San Fernando
+ES033C1,Girona
+ES034C1,Cáceres
+ES035C1,Torrevieja
+ES036C1,Pozuelo de Alarcón
+ES037C1,"Puerto de Santa María, El"
+ES038C1,Coslada
+ES039C1,Avilés
+ES040C1,Talavera de la Reina
+ES041C1,Palencia
+ES042C1,Sant Boi de Llobregat
+ES043C1,Ferrol
+ES044C1,Pontevedra
+ES045C1,Ceuta
+ES046C1,Gandia
+ES047C1,"Rozas de Madrid, Las"
+ES048C1,Guadalajara
+ES049C1,Sant Cugat del Vallès
+ES050C1,Manresa
+ES051C1,Getxo
+ES052C1,Rubí
+ES053C1,Ciudad Real
+ES054C1,Benidorm
+ES055C1,Melilla
+ES056C1,Viladecans
+ES057C1,Ponferrada
+ES058C1,San Sebastián de los Reyes
+ES059C1,Zamora
+ES060C1,Fuengirola
+ES061C1,Cerdanyola del Vallès
+ES062C1,Sanlúcar de Barrameda
+ES063C1,Vilanova i la Geltrú
+ES064C1,"Prat de Llobregat, El"
+ES065C1,"Línea de la Concepción, La"
+ES066C1,Cornellà de Llobregat
+ES067C1,Majadahonda
+ES068C1,Torremolinos
+ES069C1,Castelldefels
+ES070C1,Irun
+ES071C1,Granollers
+ES072C1,Arrecife
+ES073C1,Elda
+ES073K1,Elda
+ES074C1,Santa Lucía de Tirajana
+ES075C1,Mollet del Vallès
+ES501C1,Granada
+ES501K1,Granada
+ES503C1,Badalona
+ES504C1,Móstoles
+ES505C1,Elche/Elx
+ES506C1,Cartagena
+ES507C1,Sabadell
+ES508C1,Jerez de la Frontera
+ES509C1,Fuenlabrada
+ES510C1,San Sebastián/Donostia
+ES511C1,Alcalá de Henares
+ES512C1,Terrassa
+ES513C1,Leganés
+ES514C1,Almería
+ES515C1,Burgos
+ES516C1,Salamanca
+ES517C1,Alcorcón
+ES518C1,Getafe
+ES519C1,Albacete
+ES520C1,Castellón de la Plana/Castelló de la Plana
+ES521C1,Huelva
+ES522C1,Cádiz
+ES523C1,León
+ES524C1,San Cristóbal de la Laguna
+ES525C1,Tarragona
+ES526C1,Santa Coloma de Gramenet
+ES527C1,Jaén
+ES528C1,Lleida
+ES529C1,Ourense
+ES530C1,Mataró
+ES531C1,Dos Hermanas
+ES532C1,Algeciras
+ES533C1,Marbella
+ES534C1,Torrejón de Ardoz
+ES535C1,Alcobendas
+ES536C1,Alcalá de Guadaíra
+ES537C1,Alcoy
+ES538C1,Ávila
+ES539C1,Benalmádena
+ES540C1,Chiclana de la Frontera
+ES541C1,Collado Villalba
+ES542C1,Cuenca
+ES543C1,Eivissa
+ES544C1,Linares
+ES545C1,Lorca
+ES546C1,Mérida
+ES547C1,Sagunto
+ES548C1,Torrelavega
+ES549C1,Valdemoro
+ES550C1,Puerto de la Cruz
+ES550K1,Puerto de la Cruz
+ES551C1,Paterna
+ES552C1,Igualada
+ES552K1,Igualada
+ES553C1,Torrent
+ES554C1,Mislata
+ES555C1,Rivas-Vaciamadrid
+ES556C1,Santurtzi
+ES557C1,Esplugues de Llobregat
+ES558C1,San Vicente del Raspeig/Sant Vicent del Raspeig
+FI001C2,Helsinki / Helsingfors
+FI001K2,Helsinki / Helsingfors
+FI002C1,Tampere / Tammerfors
+FI003C1,Turku / Åbo
+FI004C3,Oulu / Uleåborg
+FI005C1,Espoo / Esbo
+FI006C1,Vantaa / Vanda
+FI007C2,Lahti / Lahtis
+FI008C3,Kuopio
+FI009C1,Jyväskylä
+FR001C1,Paris
+FR001K1,Paris
+FR003C2,Lyon
+FR004C2,Toulouse
+FR006C2,Strasbourg
+FR007C1,Bordeaux
+FR008C1,Nantes
+FR009C1,Lille
+FR010C1,Montpellier
+FR011C1,Saint-Etienne
+FR012C1,Le Havre
+FR013C2,Rennes
+FR014C2,Amiens
+FR016C1,Nancy
+FR017C2,Metz
+FR018C1,Reims
+FR019C1,Orléans
+FR020C2,Dijon
+FR021C2,Poitiers
+FR022C2,Clermont-Ferrand
+FR023C2,Caen
+FR024C2,Limoges
+FR025C1,Besançon
+FR026C2,Grenoble
+FR027C1,Ajaccio
+FR028C1,Saint Denis
+FR030C1,Fort-de-France
+FR032C2,Toulon
+FR034C2,Valenciennes
+FR035C2,Tours
+FR036C2,Angers
+FR037C1,Brest
+FR038C2,Le Mans
+FR039C2,Avignon
+FR040C2,Mulhouse
+FR042C1,Dunkerque
+FR043C2,Perpignan
+FR044C2,Nîmes
+FR045C2,Pau
+FR046C2,Bayonne
+FR047C2,Annemasse
+FR048C1,Annecy
+FR049C2,Lorient
+FR050C2,Montbéliard
+FR051C2,Troyes
+FR052C2,Saint-Nazaire
+FR053C1,La Rochelle
+FR056C1,Angoulême
+FR057C2,Boulogne-sur-Mer
+FR058C2,Chambéry
+FR059C2,Chalon-sur-Saône
+FR060C2,Chartres
+FR061C2,Niort
+FR062C1,Calais
+FR063C2,Béziers
+FR064C2,Arras
+FR065C2,Bourges
+FR066C1,Saint-Brieuc
+FR067C2,Quimper
+FR068C2,Vannes
+FR069C1,Cherbourg
+FR073C2,Tarbes
+FR074C2,Compiègne
+FR076C2,Belfort
+FR077C1,Roanne
+FR079C2,Saint-Quentin
+FR082C2,Beauvais
+FR084C1,Creil
+FR086C2,Evreux
+FR090C2,Châteauroux
+FR093C2,Brive-la-Gaillarde
+FR096C2,Albi
+FR099C1,Fréjus
+FR104C2,Châlons-en-Champagne
+FR201C1,Aubagne
+FR202C1,Aix-en-Provence
+FR203C1,Marseille
+FR205C2,Nice
+FR206C1,CA de Sophia-Antipolis
+FR207C1,Lens - Liévin
+FR208C1,Hénin - Carvin
+FR209C2,Douai
+FR210C1,Marne la Vallée
+FR211C1,Versailles
+FR212C1,CC de la Boucle de la Seine
+FR213C1,Sénart en Essonne
+FR214C1,Valence
+FR215C2,Rouen
+FR216C1,CA Marne et Chantereine
+FR217C1,CA des deux Rives de la Seine
+FR218C1,CC des Coteaux de la Seine
+FR219C1,CA Europ' Essonne
+FR220C1,CA Brie Francilienne
+FR221C1,CA les Portes de l'Essonne
+FR222C1,CA Val et Forêt
+FR223C1,CC de l'Ouest de la Plaine de France
+FR224C1,CA le Parisis
+FR304C1,Melun
+FR305C1,Meaux
+FR306C1,Mantes en Yvelines
+FR308C1,Evry
+FR309C1,CA du Plateau de Saclay
+FR310C1,CA de Seine Essonne
+FR311C1,CA du Val d'Orge
+FR312C1,CA du Val d'Yerres
+FR313C1,CA Sénart - Val de Seine
+FR322C1,CA Val de France
+FR323C1,CA de la Vallée de Montmorency
+FR324C1,Martigues
+FR501C1,Argenteuil - Bezons
+FR504C1,Cergy-Pontoise
+FR505C1,Charleville-Mézières
+FR506C1,Colmar
+FR512C1,CA des Lacs de l'Essonne
+FR518C1,Saint-Quentin en Yvelines
+FR519C1,Cannes
+EL001C1,Athina
+EL001K1,Athina
+EL002C1,Thessaloniki
+EL003C1,Pátra
+EL004C1,Irakleio
+EL005C1,Larisa
+EL006C1,Volos
+EL007C1,Ioannina
+EL008C1,Kavala
+EL009C1,Kalamata
+EL010C1,Chania
+EL011C1,Xanthi
+EL012C1 ,Katerini
+EL013C1 ,Serres
+EL014C1 ,Trikala
+HR001C1,Zagreb
+HR002C1,Rijeka
+HR003C1,Slavonski Brod
+HR004C1,Osijek
+HR005C1,Split
+HR006C1,Pula - Pola
+HR007C1,Zadar
+HU001C1,Budapest
+HU002C1,Miskolc
+HU003C1,Nyíregyháza
+HU004C1,Pécs
+HU005C1,Debrecen
+HU006C1,Szeged
+HU007C1,Gyõr
+HU008C1,Kecskemét
+HU009C1,Székesfehérvár
+HU010C1,Szombathely
+HU011C1,Szolnok
+HU012C1,Tatabánya
+HU013C1,Veszprém
+HU014C1,Békéscsaba
+HU015C1,Kaposvár
+HU016C1,Eger
+HU017C1,Dunaújváros
+HU018C1,Zalaegerszeg
+HU019C1,Sopron
+IE001C1,Dublin
+IE001K1,Dublin
+IE002C1,Cork
+IE003C1,Limerick
+IE004C1,Galway
+IE005C1,Waterford
+IS001C1,Reykjavík
+IT001C1,Roma
+IT002C1,Milano
+IT002K1,Milano
+IT003C1,Napoli
+IT003K1,Napoli
+IT004C1,Torino
+IT005C1,Palermo
+IT006C1,Genova
+IT007C1,Firenze
+IT008C1,Bari
+IT009C1,Bologna
+IT010C1,Catania
+IT011C1,Venezia
+IT012C1,Verona
+IT013C1,Cremona
+IT014C1,Trento
+IT015C1,Trieste
+IT016C1,Perugia
+IT017C1,Ancona
+IT019C1,Pescara
+IT020C1,Campobasso
+IT021C1,Caserta
+IT022C1,Taranto
+IT023C1,Potenza
+IT024C1,Catanzaro
+IT025C1,Reggio di Calabria
+IT026C1,Sassari
+IT027C1,Cagliari
+IT028C1,Padova
+IT029C1,Brescia
+IT030C1,Modena
+IT031C1,Foggia
+IT032C1,Salerno
+IT033C1,Piacenza
+IT034C1,Bolzano
+IT035C1,Udine
+IT036C1,La Spezia
+IT037C1,Lecce
+IT038C1,Barletta
+IT039C1,Pesaro
+IT040C1,Como
+IT041C1,Pisa
+IT042C1,Treviso
+IT043C1,Varese
+IT044C1,Busto Arsizio
+IT045C1,Asti
+IT046C1,Pavia
+IT047C1,Massa
+IT048C1,Cosenza
+IT052C1,Savona
+IT054C1,Matera
+IT056C1,Acireale
+IT057C1,Avellino
+IT058C1,Pordenone
+IT060C1,Lecco
+IT061C1,Altamura
+IT062C1,Bitonto
+IT063C1,Molfetta
+IT064C1,Battipaglia
+IT065C1,Bisceglie
+IT066C1,Carpi
+IT067C1,Cerignola
+IT068C1,Gallarate
+IT069C1,Gela
+IT070C1,Saronno
+IT071C1,Bagheria
+IT072C1,Anzio
+IT073C1,Sassuolo
+IT501C1,Messina
+IT502C1,Prato
+IT503C1,Parma
+IT504C1,Livorno
+IT505C1,Reggio nell'Emilia
+IT506C1,Ravenna
+IT507C1,Ferrara
+IT508C1,Rimini
+IT509C1,Siracusa
+IT510C1,Monza
+IT511C1,Bergamo
+IT512C1,Forlì
+IT513C1,Latina
+IT514C1,Vicenza
+IT515C1,Terni
+IT516C1,Novara
+IT517C1,Giugliano in Campania
+IT518C1,Alessandria
+IT519C1,Arezzo
+IT520C1,Grosseto
+IT521C1,Brindisi
+IT522C1,Trapani
+IT523C1,Ragusa
+IT524C1,Andria
+IT525C1,Trani
+IT526C1,L'Aquila
+LT001C1,Vilnius
+LT002C1,Kaunas
+LT003C1,Panevėžys
+LT004C1,Alytus
+LT501C1,Klaipėda
+LT502C1,Šiauliai
+LU001C1,Luxembourg
+LV001C1,Rīga
+LV002C1,Liepāja
+LV003C1,Jelgava
+LV501C1,Daugavpils
+MT001C1,Valletta
+NL001C2              ,Greater 's-Gravenhage
+NL002C2,Greater Amsterdam     
+NL003C2              ,Greater Rotterdam        
+NL004C2              ,Greater Utrecht              
+NL005C2              ,Greater Eindhoven        
+NL006C1,Tilburg
+NL007C1,Groningen
+NL008C1,Enschede
+NL009C2,Arnhem
+NL010C2              ,Greater Heerlen              
+NL011C1,Almere
+NL012C1,Breda
+NL013C1,Nijmegen
+NL014C1,Apeldoorn
+NL015C1,Leeuwarden
+NL016C2          ,Greater Sittard-Geleen  
+NL018C1,Hilversum
+NL020C1,Roosendaal
+NL021C2              ,Greater Nissewaard      
+NL023C1,Purmerend
+NL026C1,Alphen aan den Rijn
+NL028C1,Bergen op Zoom
+NL030C1,Gouda
+NL031C1,Hoorn
+NL032C2,Greater Middelburg      
+NL501C2          ,Greater Haarlem           
+NL502C1,Zaanstad
+NL503C1,'s-Hertogenbosch
+NL504C1,Amersfoort
+NL505C1,Maastricht
+NL507C2              ,Greater Leiden                
+NL508C1,Haarlemmermeer
+NL509C1,Zoetermeer
+NL511C1,Zwolle
+NL512C2              ,Greater Ede                      
+NL513C1,Deventer
+NL514C2              ,Greater Alkmaar 
+NL515C1,Venlo
+NL516C1,Helmond
+NL517C1,Hengelo
+NL519C1,Almelo
+NL520C1,Lelystad
+NL521C1 ,Oss
+NL522C1 ,Assen
+NL523C1 ,Stichtse Vecht
+NL524C1 ,Veenendaal
+NL526C1 ,Lansingerland
+NL528C1 ,Greater Heemskerk       
+NL529C1              ,Greater Soest                   
+NO001C1,Oslo
+NO002C1,Bergen
+NO003C1,Trondheim
+NO004C1,Stavanger
+NO005C1,Kristiansand
+NO006C1,Tromsø
+PL001C1,Warszawa
+PL002C1,Łódź
+PL003C1,Kraków
+PL004C1,Wrocław
+PL005C1,Poznań
+PL006C1,Gdańsk
+PL007C1,Szczecin
+PL008C1,Bydgoszcz
+PL009C1,Lublin
+PL010C1,Katowice
+PL010K1,Górnośląski Związek Metropolitalny
+PL011C1,Białystok
+PL012C1,Kielce
+PL013C1,Toruń
+PL014C1,Olsztyn
+PL015C1,Rzeszów
+PL016C1,Opole
+PL017C1,Gorzów Wielkopolski
+PL018C1,Zielona Góra
+PL019C1,Jelenia Góra
+PL020C1,Nowy Sącz
+PL021C1,Suwałki
+PL022C1,Konin
+PL023C1,Żory
+PL024C1,Częstochowa
+PL025C1,Radom
+PL026C1,Płock
+PL027C1,Kalisz
+PL028C1,Koszalin
+PL029C1,Słupsk
+PL030C1,Jastrzębie-Zdrój
+PL031C1,Siedlce
+PL032C1,Piotrków Trybunalski
+PL033C1,Lubin
+PL034C1,Piła
+PL035C1,Inowrocław
+PL036C1,Ostrowiec Świętokrzyski
+PL037C1,Gniezno
+PL038C1,Stargard Szczeciński
+PL039C1,Ostrów Wielkopolski
+PL040C1,Przemyśl
+PL041C1,Zamość
+PL042C1,Chełm
+PL043C1,Pabianice
+PL044C1,Głogów
+PL045C1,Stalowa Wola
+PL046C1,Tomaszów Mazowiecki
+PL047C1,Łomża
+PL048C1,Leszno
+PL049C1,Świdnica
+PL050C1,Zgierz
+PL051C1,Tczew
+PL052C1,Ełk
+PL501C1,Gdynia
+PL502C1,Sosnowiec
+PL503C1,Gliwice
+PL504C1,Zabrze
+PL505C1,Bytom
+PL506C1,Bielsko-Biała
+PL507C1,Ruda Śląska
+PL508C1,Rybnik
+PL509C1,Tychy
+PL511C1,Wałbrzych
+PL512C1,Elbląg
+PL513C1,Włocławek
+PL514C1,Tarnów
+PL515C1,Chorzów
+PL516C1,Legnica
+PL517C1,Grudziądz
+PT001C1,Lisboa
+PT001K1,Lisboa
+PT002C1,Porto
+PT002K1,Porto
+PT003C1,Braga
+PT004C1,Funchal
+PT005C1,Coimbra
+PT006C1,Setúbal
+PT007C1,Ponta Delgada
+PT008C1,Aveiro
+PT009C1,Faro
+PT010C1,Seixal
+PT011C1,Amadora
+PT012C1,Almada
+PT013C1,Odivelas
+PT014C1,Viseu
+PT015C1,Valongo
+PT016C1,Viana do Castelo
+PT017C1,Paredes
+PT018C1,Barreiro
+PT019C1,Póvoa de Varzim
+PT501C1,Sintra
+PT502C1,Vila Nova de Gaia
+PT503C1,Matosinhos
+PT504C1,Gondomar
+PT505C1,Guimarães
+PT508C1,Vila Franca de Xira
+RO001C1,Bucureşti
+RO002C1,Cluj-Napoca
+RO003C1,Timişoara
+RO004C1,Craiova
+RO005C1,Brăila
+RO006C1,Oradea
+RO007C1,Bacău
+RO008C1,Arad
+RO009C1,Sibiu
+RO010C1,Târgu Mureş
+RO011C1,Piatra Neamţ
+RO012C1,Cǎlǎraşi
+RO013C1,Giurgiu
+RO014C1,Alba Iulia
+RO015C1,Focşani
+RO016C1,Târgu Jiu
+RO017C1,Tulcea
+RO018C1,Târgovişte
+RO019C1,Slatina
+RO020C1,Bârlad
+RO021C1,Roman
+RO022C1,Bistriţa
+RO501C1,Constanţa
+RO502C1,Iaşi
+RO503C1,Galaţi
+RO504C1,Braşov
+RO505C1,Ploieşti
+RO506C1,Piteşti
+RO507C1,Baia Mare
+RO508C1,Buzău
+RO509C1,Satu Mare
+RO510C1,Botoşani
+RO511C1,Râmnicu Vâlcea
+RO512C1,Suceava
+RO513C1,Drobeta-Turnu Severin
+SE001C1,Stockholm
+SE001K1,Stockholm
+SE002C1,Göteborg
+SE003C1,Malmö
+SE004C1,Jönköping
+SE005C1,Umeå
+SE006C1,Uppsala
+SE007C1,Linköping
+SE008C1,Örebro
+SE501C1,Västerås
+SE502C1,Norrköping
+SE503C1,Helsingborg
+SE504C1,Lund
+SE505C1,Borås
+SI001C1,Ljubljana
+SI002C1,Maribor
+SK001C1,Bratislava
+SK002C1,Košice
+SK003C1,Banská Bystrica
+SK004C1,Nitra
+SK005C1,Prešov
+SK006C1,Žilina
+SK007C1,Trnava
+SK008C1,Trenčín
+UK001K2,London
+UK001L3,London
+UK002C1,Birmingham
+UK002K1,West Midlands urban area
+UK002L3,West Midlands urban area
+UK003C1,Leeds
+UK003L2,Leeds
+UK004C1,Glasgow
+UK004K1 ,Greater Glasgow
+UK004L1,Glasgow
+UK005C1,Bradford
+UK005L0,Bradford
+UK006C1,Liverpool
+UK006K2,Liverpool
+UK006L3,Liverpool
+UK007C1,Edinburgh
+UK007L1,Edinburgh
+UK008C1,Manchester
+UK008K1,Greater Manchester
+UK008L3,Greater Manchester
+UK009C1,Cardiff
+UK009L1,Cardiff
+UK010C1,Sheffield
+UK010L3,Sheffield
+UK011C1,Bristol
+UK011L2,Bristol
+UK012C2,Belfast
+UK012K1,Greater Belfast
+UK012L2,Belfast
+UK013C1,Newcastle upon Tyne
+UK013K1,Tyneside conurbation
+UK013L2,Newcastle upon Tyne
+UK014C1,Leicester
+UK014K1,Leicester
+UK014L1,Leicester
+UK016C1,Aberdeen City
+UK016L1,Aberdeen
+UK017C1,Cambridge
+UK017L2,Cambridge
+UK018C1,Exeter
+UK018L3,Exeter
+UK019C1,Lincoln
+UK019L3,Lincoln
+UK020C1,Gravesham
+UK021C1,Stevenage
+UK021L0,Stevenage
+UK022C1,Wrexham
+UK022L0,Wrexham
+UK023C1,Portsmouth
+UK023K1,Portsmouth
+UK023L1,Portsmouth
+UK024C1,Worcester
+UK024L1,Worcester
+UK025C1,Coventry
+UK025L3,Coventry
+UK026C1,Kingston-upon-Hull
+UK026L1,Kingston upon Hull
+UK027C1,Stoke-on-trent
+UK027K1,Stoke-on-Trent
+UK027L1,Stoke-on-Trent
+UK028C1,Wolverhampton
+UK029C1,Nottingham
+UK029K1,Greater Nottingham
+UK029L1,Nottingham
+UK030C1,Wirral
+UK031C1,Bath and North East Somerset
+UK031L0,Bath and North East Somerset
+UK032C1,Thurrock
+UK033C1,Guildford
+UK033L1,Guildford
+UK034C1,Thanet
+UK034L0,Thanet
+UK035C1,Nuneaton and Bedworth
+UK038C1,Waveney
+UK038L0,Waveney
+UK040C1,Tunbridge Wells
+UK040L0,Tunbridge Wells
+UK041C1,Ashford
+UK041L0,Ashford
+UK043C1,East Staffordshire
+UK043L0,East Staffordshire
+UK044C1,Darlington
+UK044L0,Darlington
+UK045C1,Worthing
+UK045L0,Worthing
+UK046C1,Mansfield
+UK046L0,Mansfield
+UK047C1,Chesterfield
+UK047L0,Chesterfield
+UK050C1,Burnley
+UK050L1,Burnley
+UK051C1,Great Yarmouth
+UK051L0,Great Yarmouth
+UK052C1,Woking
+UK053C1,Hartlepool
+UK053L0,Hartlepool
+UK054C1,Cannock Chase
+UK054L0,Cannock Chase
+UK055C1,Eastbourne
+UK055L0,Eastbourne
+UK056C1,Hastings
+UK056L1,Hastings
+UK057C1,Hyndburn
+UK059C1,Redditch
+UK059L0,Redditch
+UK060C1,Tamworth
+UK061C1,Harlow
+UK062C1,Halton
+UK101C1,City of London
+UK102C1,Barking and Dagenham
+UK103C1,Barnet
+UK104C1,Bexley
+UK105C1,Brent
+UK106C1,Bromley
+UK107C1,Camden
+UK108C1,Croydon
+UK109C1,Ealing
+UK110C1,Enfield
+UK111C1,Greenwich
+UK112C1,Hackney
+UK113C1,Hammersmith and Fulham
+UK114C1,Haringey
+UK115C1,Harrow
+UK116C1,Havering
+UK117C1,Hillingdon
+UK118C1,Hounslow
+UK119C1,Islington
+UK120C1,Kensington and Chelsea
+UK121C1,Kingston upon Thames
+UK122C1,Lambeth
+UK123C1,Lewisham
+UK124C1,Merton
+UK125C1,Newham
+UK126C1,Redbridge
+UK127C1,Richmond upon Thames
+UK128C1,Southwark
+UK129C1,Sutton
+UK130C1,Tower Hamlets
+UK131C1,Waltham Forest
+UK132C1,Wandsworth
+UK133C1,Westminster
+UK501C1,Kirklees
+UK501L0,Kirklees
+UK502C1,North Lanarkshire (Airdrie/Bellshill/Coatbridge/Motherwell)
+UK503C1,Wakefield
+UK504C1,Dudley
+UK505C1,Wigan
+UK506C1,Doncaster
+UK506L0,Doncaster
+UK507C1,Stockport
+UK508C1,Sefton
+UK509C1,Sandwell
+UK510C1,Sunderland
+UK510L0,Sunderland
+UK511C1,Bolton
+UK512C1,Walsall
+UK513C1,Medway
+UK513L0,Medway
+UK514C1,Rotherham
+UK515C1,Brighton and Hove
+UK515K1,Brighton and Hove
+UK515L1,Brighton and Hove
+UK516C1,Plymouth
+UK516L1,Plymouth
+UK517C1,Swansea
+UK517L1,Swansea
+UK518C1,Derby
+UK518L1,Derby
+UK519C1,Barnsley
+UK519L0,Barnsley
+UK520C1,Southampton
+UK520K1,Southampton
+UK520L2,Southampton
+UK521C1,Oldham
+UK522C1,Salford
+UK523C1,Tameside
+UK524C1,Trafford
+UK525C1,Milton Keynes
+UK525L0,Milton Keynes
+UK526C1,Rochdale
+UK527C1,Solihull
+UK528C1,Northampton
+UK528L1,Northampton
+UK529C1,North Tyneside
+UK530C1,Gateshead
+UK531C1,Warrington
+UK531L0,Warrington
+UK532C1,Luton
+UK532L0,Luton
+TR001C1,Ankara
+TR002C1,Adana
+TR003C1,Antalya
+TR004C1,Balıkesir
+TR005C1,Bursa
+TR006C1,Denizli
+TR007C1,Diyarbakır
+TR008C1,Edirne
+TR009C1,Erzurum
+TR010C1,Gaziantep
+TR011C1,Hatay
+TR012C1,İstanbul
+TR013C1,İzmir
+TR014C1,Kars
+TR015C1,Kastamonu
+TR016C1,Kayseri
+TR017C1,Kocaeli
+TR018C1,Konya
+TR019C1,Malatya
+TR020C1,Manisa
+TR021C1,Nevşehir
+TR022C1,Samsun
+TR023C1,Siirt
+TR024C1,Trabzon
+TR025C1,Van
+TR026C1,Zonguldak
+AT001L2,Wien
+AT002L2,Graz
+AT003L2,Linz
+AT004L2,Salzburg
+AT005L2,Innsbruck
+AT006L1,Klagenfurt
+BE001L2,Bruxelles / Brussel
+BE002L2,Antwerpen
+BE003L2,Gent
+BE004L2,Charleroi
+BE005L2,Liège
+BE006L2,Brugge
+BE007L2,Namur
+BE008L1,Leuven
+BE009L1,Mons
+BE010L1,Kortrijk
+BE011L1,Oostende
+BG001L2,Sofia
+BG002L2,Plovdiv
+BG003L2,Varna
+BG004L2,Burgas
+BG005L1,Pleven
+BG006L2,Ruse
+BG007L2,Vidin
+BG008L2,Stara Zagora
+BG009L1,Sliven
+BG010L1,Dobrich
+BG011L1,Shumen
+BG013L1,Yambol
+BG014L1,Haskovo
+BG015L1,Pazardzhik
+BG016L1,Blagoevgrad
+BG017L1,Veliko Tarnovo
+BG018L1,Vratsa
+CH001L2,Zürich
+CH002T1,Genève transnational LUZ
+CH002L1,Genève
+CH003T1,Basel transnational LUZ
+CH003L1,Basel
+CH004L1,Bern
+CH005L1,Lausanne
+CH006L1,Winterthur
+CH007L1,St. Gallen
+CH008L1,Luzern
+CH009L1,Lugano
+CH010L1,Biel/Bienne
+CY001L2,Lefkosia
+CY501L2,Lemesos
+CZ001L2,Praha
+CZ002L2,Brno
+CZ003L2,Ostrava
+CZ004L2,Plzeň
+CZ005L2,Ústí nad Labem
+CZ006L2,Olomouc
+CZ007L2,Liberec
+CZ008L2,České Budějovice
+CZ009L2,Hradec Králové
+CZ010L2,Pardubice
+CZ011L2,Zlín
+CZ013L2,Karlovy Vary
+CZ014L2,Jihlava
+CZ016L2,Most
+CZ018L2,Chomutov
+DE001L1,Berlin
+DE002L1,Hamburg
+DE003L1,München
+DE004L1,Köln
+DE005L1,Frankfurt am Main
+DE007L1,Stuttgart
+DE008L2,Leipzig
+DE009L2,Dresden
+DE011L1,Düsseldorf
+DE012L1,Bremen
+DE013L1,Hannover
+DE014L1,Nürnberg
+DE017L0,Bielefeld
+DE018L1,Halle an der Saale
+DE019L2,Magdeburg
+DE020L1,Wiesbaden
+DE021L1,Göttingen
+DE025L1,Darmstadt
+DE026L1,Trier
+DE027L1,Freiburg im Breisgau
+DE028L1,Regensburg
+DE029L0,Frankfurt (Oder)
+DE030L1,Weimar
+DE031L1,Schwerin
+DE032L1,Erfurt
+DE033L1,Augsburg
+DE034L1,Bonn
+DE035L1,Karlsruhe
+DE036L0,Mönchengladbach
+DE037L1,Mainz
+DE038L1,Ruhrgebiet
+DE039L1,Kiel
+DE040L1,Saarbrücken
+DE042L1,Koblenz
+DE043L2,Rostock
+DE044L1,Kaiserslautern
+DE045L1,Iserlohn
+DE048L1,Wilhelmshaven
+DE050L1,Tübingen
+DE051L1,Villingen-Schwenningen
+DE052L1,Flensburg
+DE053L1,Marburg
+DE054L1,Konstanz
+DE055L0,Neumünster
+DE056L0,Brandenburg an der Havel
+DE057L1,Gießen
+DE058L1,Lüneburg
+DE059L1,Bayreuth
+DE060L1,Celle
+DE061L1,Aschaffenburg
+DE062L1,Bamberg
+DE063L1,Plauen
+DE064L1,Neubrandenburg
+DE065L1,Fulda
+DE066L1,Kempten (Allgäu)
+DE067L1,Landshut
+DE069L1,Rosenheim
+DE071L1,Stralsund
+DE072L1,Friedrichshafen
+DE073L1,Offenburg
+DE074L1,Görlitz
+DE077L1,Schweinfurt
+DE078L1,Greifswald
+DE079L1,Wetzlar
+DE081L1,Passau
+DE082L0,Dessau-Roßlau
+DE083L1,Braunschweig-Salzgitter-Wolfsburg
+DE084L1,Mannheim-Ludwigshafen
+DE504L1,Münster
+DE505L0,Chemnitz
+DE507L1,Aachen
+DE508L0,Krefeld
+DE510L1,Lübeck
+DE513L1,Kassel
+DE516L0,Solingen
+DE517L1,Osnabrück
+DE520L1,Oldenburg (Oldenburg)
+DE522L1,Heidelberg
+DE523L1,Paderborn
+DE524L2,Würzburg
+DE527L1,Bremerhaven
+DE529L1,Heilbronn
+DE530L0,Remscheid
+DE532L1,Ulm
+DE533L1,Pforzheim
+DE534L1,Ingolstadt
+DE535L1,Gera
+DE537L1,Reutlingen
+DE539L1,Cottbus
+DE540L2,Siegen
+DE542L1,Hildesheim
+DE544L1,Zwickau
+DE546L0,Wuppertal
+DE547L2,Jena
+DE548L1,"Düren, Stadt"
+DE549L1,"Bocholt, Stadt"
+DK001L2,København
+DK002L3,Århus
+DK003L2,Odense
+DK004L3,Aalborg
+EE001L1,Tallinn
+EE002L1,Tartu
+EE003L0,Narva
+ES001L3,Madrid
+ES002L2,Barcelona
+ES003L3,Valencia
+ES004L3,Sevilla
+ES005L2,Zaragoza
+ES006L2,Málaga
+ES007L2,Murcia
+ES008L2,Las Palmas
+ES009L2,Valladolid
+ES010L2,Palma de Mallorca
+ES011L2,Santiago de Compostela
+ES012L2,Vitoria/Gasteiz
+ES013L2,Oviedo
+ES014L3,Pamplona/Iruña
+ES015L2,Santander
+ES016L2,Toledo
+ES017L2,Badajoz
+ES018L2,Logroño
+ES019L3,Bilbao
+ES020L2,Córdoba
+ES021L2,Alicante/Alacant
+ES022L2,Vigo
+ES023L2,Gijón
+ES025L3,Santa Cruz de Tenerife
+ES026L2,Coruña (A)
+ES028L1,Reus
+ES031L1,Lugo
+ES033L1,Girona
+ES034L1,Cáceres
+ES035L1,Torrevieja
+ES037L0," Puerto de Santa María, El"
+ES039L1,Avilés
+ES040L1,Talavera de la Reina
+ES041L1,Palencia
+ES043L1,Ferrol
+ES044L1,Pontevedra
+ES045L0,Ceuta
+ES046L1,Gandia
+ES048L1,Guadalajara
+ES050L1,Manresa
+ES053L1,Ciudad Real
+ES054L1,Benidorm
+ES055L0,Melilla
+ES057L1,Ponferrada
+ES059L1,Zamora
+ES062L0,Sanlúcar de Barrameda
+ES065L0    ,"Línea de la Concepción, La"
+ES070L1,Irun
+ES072L1,Arrecife
+ES073L0,Elda
+ES074L0,Santa Lucía de Tirajana
+ES501L3,Granada
+ES505L1,Elche/Elx
+ES506L1,Cartagena
+ES508L1,Jerez de la Frontera
+ES510L1,Donostia-San Sebastián
+ES514L1,Almería
+ES515L1,Burgos
+ES516L1,Salamanca
+ES519L1,Albacete
+ES520L1,Castellón de la Plana/Castelló de la Plana
+ES521L1,Huelva
+ES522L1,Cádiz
+ES523L1,León
+ES525L1,Tarragona
+ES527L1,Jaén
+ES528L1,Lleida
+ES529L1,Ourense
+ES532L1,Algeciras
+ES533L1,Marbella
+ES537L1,Alcoy
+ES538L1,Ávila
+ES542L1,Cuenca
+ES543L1,Eivissa
+ES544L1,Linares
+ES545L1,Lorca
+ES546L1,Mérida
+ES547L1,Sagunto
+ES550L1,Puerto de la Cruz
+ES552L1,Igualada
+FI001L3,Helsinki
+FI002L3,Tampere
+FI003L4,Turku
+FI004L4,Oulu
+FI007L2,Lahti
+FI008L2,Kuopio
+FI009L2,Jyväskylä
+FR001L1,Paris
+FR003L2,Lyon
+FR004L2,Toulouse
+FR006L2,Strasbourg
+FR007L2,Bordeaux
+FR008L2,Nantes
+FR009L2,Lille
+FR010L2,Montpellier
+FR011L2,Saint-Etienne
+FR012L2,Le Havre
+FR013L2,Rennes
+FR014L2,Amiens
+FR016L2,Nancy
+FR017L2,Metz
+FR018L2,Reims
+FR019L2,Orléans
+FR020L2,Dijon
+FR021L2,Poitiers
+FR022L2,Clermont-Ferrand
+FR023L2,Caen
+FR024L2,Limoges
+FR025L2,Besançon
+FR026L2,Grenoble
+FR027L2,Ajaccio
+FR028L1,Saint Denis
+FR030L1,Fort-de-France
+FR032L2,Toulon
+FR034L2,Valenciennes
+FR035L2,Tours
+FR036L2,Angers
+FR037L2,Brest
+FR038L2,Le Mans
+FR039L1,Avignon
+FR040L2,Mulhouse
+FR042L2,Dunkerque
+FR043L2,Perpignan
+FR044L2,Nîmes
+FR045L2,Pau
+FR046L2,Bayonne
+FR047L0,Annemasse
+FR048L2,Annecy
+FR049L2,Lorient
+FR050L2,Montbéliard
+FR051L2,Troyes
+FR052L2,Saint-Nazaire
+FR053L2,La Rochelle
+FR056L2,Angoulême
+FR057L2,Boulogne-sur-Mer
+FR058L2,Chambéry
+FR059L2,Chalon-sur-Saône
+FR060L2,Chartres
+FR061L2,Niort
+FR062L2,Calais
+FR063L2,Béziers
+FR064L2,Arras
+FR065L2,Bourges
+FR066L2,Saint-Brieuc
+FR067L2,Quimper
+FR068L2,Vannes
+FR069L2,Cherbourg
+FR073L2,Tarbes
+FR074L2,Compiègne
+FR076L2,Belfort
+FR077L2,Roanne
+FR079L2,Saint-Quentin
+FR082L2,Beauvais
+FR084L2,Creil
+FR086L2,Evreux
+FR090L2,Châteauroux
+FR093L2,Brive-la-Gaillarde
+FR096L2,Albi
+FR099L2,Fréjus
+FR104L2,Châlons-en-Champagne
+FR203L2,Marseille
+FR205L2,Nice
+FR207L2,Lens - Liévin
+FR208L1,Hénin - Carvin
+FR209L2,Douai
+FR214L1,Valence
+FR215L2,Rouen
+FR304L1,Melun
+FR324L1,Martigues
+FR505L1,Charleville-Mézières
+FR506L1,Colmar
+FR519L1,Cannes
+EL001L1,Athina
+EL002L1,Thessaloniki
+EL003L1,Patra
+EL004L1,Irakleio
+EL005L1,Larisa
+EL006L1,Volos
+EL007L1,Ioannina
+EL008L1,Kavala
+EL009L1,Kalamata
+EL010L1,Chania
+EL011L1,Xanthi
+EL012L1,Katerini
+EL013L1,Serres
+EL014L1,Trikala
+HR001L2,Grad Zagreb
+HR002L2,Rijeka
+HR003L2,Slavonski Brod
+HR004L2,Osijek
+HR005L2,Split
+HR006L1,Pula - Pola
+HR007L1,Zadar
+HU001L2,Budapest
+HU002L2,Miskolc
+HU003L2,Nyíregyháza
+HU004L2,Pécs
+HU005L2,Debrecen
+HU006L2,Szeged
+HU007L2,Gyõr
+HU008L2,Kecskemét
+HU009L2,Székesfehérvár
+HU010L1,Szombathely
+HU011L1,Szolnok
+HU012L1,Tatabánya
+HU013L1,Veszprém
+HU014L1,Békéscsaba
+HU015L1,Kaposvár
+HU016L1,Eger
+HU017L1,Dunaújváros
+HU018L1,Zalaegerszeg
+HU019L1,Sopron
+IE001L1,Dublin
+IE002L1,Cork
+IE003L1,Limerick
+IE004L1,Galway
+IE005L1,Waterford
+IS001L1,Reykjavík
+IT001L3,Roma
+IT002L3,Milano
+IT003L3,Napoli
+IT004L2,Torino
+IT005L3,Palermo
+IT006L3,Genova
+IT007L3,Firenze
+IT008L3,Bari
+IT009L1,Bologna
+IT010L2,Catania
+IT011L2,Venezia
+IT012L3,Verona
+IT013L3,Cremona
+IT014L3,Trento
+IT015L1,Trieste
+IT016L3,Perugia
+IT017L3,Ancona
+IT019L2,Pescara
+IT020L3,Campobasso
+IT021L2,Caserta
+IT022L2,Taranto
+IT023L2,Potenza
+IT024L3,Catanzaro
+IT025L3,Reggio di Calabria
+IT026L3,Sassari
+IT027L2,Cagliari
+IT028L3,Padova
+IT029L3,Brescia
+IT030L3,Modena
+IT031L3,Foggia
+IT032L3,Salerno
+IT033L2,Piacenza
+IT034L1,Bolzano
+IT035L2,Udine
+IT036L2,La Spezia
+IT037L1,Lecce
+IT038L1,Barletta
+IT039L2,Pesaro
+IT040L2,Como
+IT041L2,Pisa
+IT042L1,Treviso
+IT043L2,Varese
+IT045L2,Asti
+IT046L2,Pavia
+IT047L1,Massa
+IT048L2,Cosenza
+IT052L1,Savona
+IT054L1,Matera
+IT056L1,Acireale
+IT057L2,Avellino
+IT058L2,Pordenone
+IT060L1,Lecco
+IT061L0,Altamura
+IT064L1,Battipaglia
+IT065L0,Bisceglie
+IT066L1,Carpi
+IT067L0,Cerignola
+IT068L1,Gallarate
+IT069L1,Gela
+IT073L1,Sassuolo
+IT501L2,Messina
+IT502L2,Prato
+IT503L3,Parma
+IT504L3,Livorno
+IT505L3,Reggio nell'Emilia
+IT506L2,Ravenna
+IT507L2,Ferrara
+IT508L3,Rimini
+IT509L3,Siracusa
+IT511L2,Bergamo
+IT512L3,Forlì
+IT513L3,Latina
+IT514L2,Vicenza
+IT515L2,Terni
+IT516L2,Novara
+IT518L1,Alessandria
+IT519L1,Arezzo
+IT520L1,Grosseto
+IT521L1,Brindisi
+IT522L1,Trapani
+IT523L1,Ragusa
+IT524L0,Andria
+IT525L0,Trani
+IT526L1,L'Aquila
+LT001L1,Vilnius
+LT002L1,Kaunas
+LT003L1,Panevėžys
+LT004L0,Alytus
+LT501L0,Klaipėda
+LT502L0,Šiauliai
+LU001L1,Luxembourg
+LV001L1,Rīga
+LV002L2,Liepāja
+LV003L1,Jelgava
+LV501L1,Daugavpils
+MT001L1,Valletta
+NL001L3,s' Gravenhage
+NL002L3,Amsterdam
+NL003L3,Rotterdam
+NL004L3,Utrecht
+NL005L3,Eindhoven
+NL006L3,Tilburg
+NL007L3,Groningen
+NL008L3,Enschede
+NL009L3,Arnhem
+NL010L3,Heerlen
+NL012L3,Breda
+NL013L3,Nijmegen
+NL014L3,Apeldoorn
+NL015L3,Leeuwarden
+NL016L3,Sittard-Geleen
+NL018L3,Hilversum
+NL020L3,Roosendaal
+NL026L0,Alphen aan den Rijn
+NL028L3,Bergen op Zoom
+NL030L0,Gouda
+NL031L3,Hoorn
+NL032L3,Middelburg
+NL503L3,s-Hertogenbosch
+NL504L3,Amersfoort
+NL505L3,Maastricht
+NL507L3,Leiden
+NL511L3,Zwolle
+NL512L3,Ede
+NL513L3,Deventer
+NL514L3,Alkmaar
+NL515L3,Venlo
+NL519L3,Almelo
+NL520L3,Lelystad
+NL521L3,Oss
+NL522L3,Assen
+NL524L3,Veenendaal
+NL529L3              ,Greater Soest   
+NO001L1,Oslo
+NO002L1,Bergen
+NO003L1,Trondheim
+NO004L1,Stavanger
+NO005L1,Kristiansand
+NO006L1,Tromsø
+PL001L2,Warszawa
+PL002L2,Łódź
+PL003L2,Kraków
+PL004L2,Wrocław
+PL005L2,Poznań
+PL006L2,Gdańsk
+PL007L2,Szczecin
+PL008L2,Bydgoszcz
+PL009L2,Lublin
+PL010L2,Katowice
+PL011L2,Białystok
+PL012L2,Kielce
+PL013L2,Toruń
+PL014L2,Olsztyn
+PL015L2,Rzeszów
+PL016L2,Opole
+PL017L2,Gorzów Wielkopolski
+PL018L2,Zielona Góra
+PL019L2,Jelenia Góra
+PL020L2,Nowy Sącz
+PL021L2,Suwałki
+PL022L2,Konin
+PL024L2,Częstochowa
+PL025L2,Radom
+PL026L2,Płock
+PL027L2,Kalisz
+PL028L2,Koszalin
+PL029L1,Słupsk
+PL030L1,Jastrzębie-Zdrój
+PL031L1,Siedlce
+PL032L1,Piotrków Trybunalski
+PL033L1,Lubin
+PL034L1,Piła
+PL035L1,Inowrocław
+PL036L1,Ostrowiec Świętokrzyski
+PL037L1,Gniezno
+PL038L1,Stargard Szczeciński
+PL039L1,Ostrów Wielkopolski
+PL040L1,Przemyśl
+PL041L1,Zamość
+PL042L1,Chełm
+PL043L1,Pabianice
+PL044L1,Głogów
+PL045L1,Stalowa Wola
+PL046L1,Tomaszów Mazowiecki
+PL047L1,Łomża
+PL048L1,Leszno
+PL049L1,Świdnica
+PL051L1,Tczew
+PL052L1,Ełk
+PL506L2,Bielsko-Biała
+PL508L1,Rybnik
+PL511L2,Wałbrzych
+PL512L2,Elbląg
+PL513L2,Włocławek
+PL514L2,Tarnów
+PL516L2,Legnica
+PL517L2,Grudziądz
+PT001L3,Lisboa
+PT002L2,Porto
+PT003L1,Braga
+PT004L2,Funchal
+PT005L2,Coimbra
+PT007L1,Ponta Delgada
+PT008L2,Aveiro
+PT009L1,Faro
+PT014L1,Viseu
+PT016L0,Viana do Castelo
+PT019L0,Póvoa de Varzim
+PT505L1,Guimarães
+RO001L1,Bucureşti
+RO002L1,Cluj-Napoca
+RO003L1,Timişoara
+RO004L1,Craiova
+RO005L1,Brăila
+RO006L1,Oradea
+RO007L1,Bacău
+RO008L1,Arad
+RO009L1,Sibiu
+RO010L1,Târgu Mureş
+RO011L1,Piatra Neamţ
+RO012L1,Cǎlǎraşi
+RO013L1,Giurgiu
+RO014L1,Alba Iulia
+RO015L1,Focşani
+RO016L1,Târgu Jiu
+RO017L1,Tulcea
+RO018L1,Târgovişte
+RO019L1,Slatina
+RO020L1,Bârlad
+RO021L1,Roman
+RO022L1,Bistriţa
+RO501L1,Constanta
+RO502L1,Iasi
+RO503L1,Galati
+RO504L1,Brasov
+RO505L1,Ploiesti
+RO506L1,Pitesti
+RO507L1,Baia Mare
+RO508L1,Buzau
+RO509L1,Satu Mare
+RO510L1,Botosani
+RO511L1,Ramnicu Valcea
+RO512L1,Suceava
+RO513L1,Drobeta-Turnu Severin
+SE001L1,Stockholm
+SE002L1,Göteborg
+SE003L1,Malmö
+SE004L1,Jönköping
+SE005L1,Umeå
+SE006L1,Uppsala
+SE007L1,Linköping
+SE008L1,Örebro
+SE501L1,Västerås
+SE502L1,Norrköping
+SE503L1,Helsingborg
+SE505L1,Borås
+SI001L2,Ljubljana
+SI002L1,Maribor
+SK001L1,Bratislava
+SK002L1,Košice
+SK003L1,Banská Bystrica
+SK004L1,Nitra
+SK005L1,Prešov
+SK006L1,Žilina
+SK007L1,Trnava
+SK008L1,Trenčín
+UK533C1,York
+UK533L0,York
+UK534C1,Bury
+UK535C1,Swindon
+UK535L0,Swindon
+UK536C1,Stockton-on-Tees
+UK537C1,St. Helens
+UK538C1,Basildon
+UK539C1,Bournemouth
+UK539K1,Bournemouth
+UK539L1,Bournemouth
+UK540C1,Wycombe
+UK540L0,Wycombe
+UK541C1,Southend-on-Sea
+UK541K1,Southend-on-Sea
+UK542C1,Telford and Wrekin
+UK542L0,Telford and Wrekin
+UK543C1,North East Lincolnshire
+UK543L0,North East Lincolnshire
+UK544C1,Chelmsford
+UK545C1,Peterborough
+UK545L0,Peterborough
+UK546C1,Colchester
+UK546L1,Colchester
+UK547C1,South Tyneside
+UK548C1,Basingstoke and Deane
+UK548L0,Basingstoke and Deane
+UK549C1,Bedford
+UK549L0,Bedford
+UK550C1,Dundee City
+UK550L1,Dundee City
+UK551C1,Falkirk
+UK551L0,Falkirk
+UK552C1,Reading
+UK552K1,Reading
+UK552L0,Reading
+UK553C1,Blackpool
+UK553K1,Blackpool
+UK553L1,Blackpool
+UK554C1,Maidstone
+UK554L0,Maidstone
+UK555C1,Poole
+UK556C1,Dacorum
+UK556L0,Dacorum
+UK557C1,Blackburn with Darwen
+UK557L1,Blackburn with Darwen
+UK558C1,Newport
+UK558L1,Newport
+UK559C1,Middlesbrough
+UK559L2,Middlesbrough
+UK560C1,Oxford
+UK560L1,Oxford
+UK561C1,Torbay
+UK561L0,Torbay
+UK562C1,Preston
+UK562K1,Preston
+UK562L2,Preston
+UK563C1,St Albans
+UK564C1,Warwick
+UK564L0,Warwick
+UK565C1,Newcastle-under-Lyme
+UK566C1,Norwich
+UK566L1,Norwich
+UK567C1,Slough
+UK568C2,Cheshire West and Chester
+UK568L1,Cheshire West and Chester
+UK569C1,Ipswich
+UK569L2,Ipswich
+UK571C1,Cheltenham
+UK571L1,Cheltenham
+UK572C1,Gloucester
+UK572L0,Gloucester
+UK573C1,Bracknell Forest
+UK573L0,Bracknell Forest
+UK575C1,Carlisle
+UK575L0,Carlisle
+UK576C1,Crawley
+UK576L0,Crawley
+UK577C1,Watford
+UK578C1,Gosport
+UK579C1,Eastleigh
+UK580C1,Rushmoor
+UK580K1,Rushmoor
+UK581C1,Rugby
+UK582C1,Corby
+UK583C1,Kettering
+UK584C1,Inverclyde (Greenock)
+UK585C1,Renfrewshire (Paisley)
+UK586C1,Derry & Strabane Local Government District
+UK586L0,Derry & Strabane Local Government District
+TR001L1,Ankara
+TR002L1,Adana
+TR003L1,Antalya
+TR004L1,Balıkesir
+TR005L1,Bursa
+TR006L1,Denizli
+TR007L1,Diyarbakır
+TR008L1,Edirne
+TR009L1,Erzurum
+TR010L1,Gaziantep
+TR011L1,Hatay
+TR012L1,İstanbul
+TR013L1,İzmir
+TR014L1,Kars
+TR015L1,Kastamonu
+TR016L1,Kayseri
+TR017L1,Kocaeli
+TR018L1,Konya
+TR019L1,Malatya
+TR020L1,Manisa
+TR021L1,Nevşehir
+TR022L1,Samsun
+TR023L1,Siirt
+TR024L1,Trabzon
+TR025L1,Van
+TR026L1,Zonguldak

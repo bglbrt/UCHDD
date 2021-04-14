@@ -1,0 +1,239 @@
+CODE,LABEL
+CR1003I,Number of cinema seats per 1000 residents
+CR1003V,Number of cinema seats (total capacity)
+CR1005V,Cinema attendance (per year)
+CR1007V,Number of museum visitors (per year)
+CR1008V,Number of theatres
+CR1010V,Number of public libraries (all distribution points)
+CR1015V,"Number of public swimming pools (indoor and outdoor, excluding beaches)"
+CR2001V,Total nights spent in tourist accommodation establishments
+CR2009V,Number of bed-places in tourist  accommodation establishments
+CR2010I,Number of available beds per 1000 residents
+CR2011I,Number of Tourist overnight stays in reg. accommodation per year per resident population
+DE1001V,"Population on the 1st of January, total"
+DE1002V,"Population on the 1st of January, male"
+DE1003I,Women per 100 men
+DE1003V,"Population on the 1st of January, female"
+DE1025I,Proportion of total population aged 55-64
+DE1025V,"Population on the 1st of January, 55-64 years, total"
+DE1026V,"Population on the 1st of January, 55-64 years, male"
+DE1027V,"Population on the 1st of January, 55-64 years, female"
+DE1028I,Proportion of population aged 65-74 years
+DE1028V,"Population on the 1st of January, 65-74 years, total"
+DE1029V,"Population on the 1st of January, 65-74 years, male"
+DE1030V,"Population on the 1st of January, 65-74 years, female"
+DE1040I,Proportion of population aged 0-4 years
+DE1040V,"Population on the 1st of January, 0-4 years, total"
+DE1041V,"Population on the 1st of January, 0-4 years, male"
+DE1042V,"Population on the 1st of January, 0-4 years, female"
+DE1046I,Proportion of population aged 15-19 years
+DE1046V,"Population on the 1st of January, 15-19 years, total"
+DE1047V,"Population on the 1st of January, 15-19 years, male"
+DE1048V,"Population on the 1st of January, 15-19 years, female"
+DE1049I,Proportion of population aged 20-24 years
+DE1049V,"Population on the 1st of January, 20-24 years, total"
+DE1050V,"Population on the 1st of January, 20-24 years, male"
+DE1051V,"Population on the 1st of January, 20-24 years, female"
+DE1055I,Proportion of population aged 75 years  and over
+DE1055V,"Population on the 1st of January, 75 years and over, total"
+DE1056V,"Population on the 1st of January, 75 years and over, male"
+DE1057I,Women per 100 men - aged 75 years  and over
+DE1057V,"Population on the 1st of January, 75 years and over, female"
+DE1058I,Age dependency ratio (population aged 0-19 and 65 and more to population aged 20-64)
+DE1058V,"Population on the 1st of January, 25-34 years, total"
+DE1059I,Young-age dependency ratio (population aged 0-19 to population 20-64 years)
+DE1059V,"Population on the 1st of January, 25-34 years, male"
+DE1060I,Old age dependency ratio (population 65 and over to population 20 to 64 years)
+DE1060V,"Population on the 1st of January, 25-34 years, female"
+DE1061I,Population change over 1 year
+DE1061V,"Population on the 1st of January, 35-44 years, total"
+DE1062V,"Population on the 1st of January, 35-44 years, male"
+DE1063V,"Population on the 1st of January, 35-44 years, female"
+DE1064I,Proportion of population aged 45-54 years
+DE1064V,"Population on the 1st of January, 45-54 years, total"
+DE1065V,"Population on the 1st of January, 45-54 years, male"
+DE1066V,"Population on the 1st of January, 45-54 years, female"
+DE1073I,Proportion of population aged 25-34 years
+DE1073V,Median population age
+DE1074V,"Population on the 1st of January, 5-9 years, total"
+DE1075V,"Population on the 1st of January, 5-9 years, male"
+DE1076I,Proportion of population aged 35-44 years
+DE1076V,"Population on the 1st of January, 5-9 years, female"
+DE1077V,"Population on the 1st of January, 10-14 years, total"
+DE1078V,"Population on the 1st of January, 10-14 years, male"
+DE1079V,"Population on the 1st of January, 10-14 years, female"
+DE1084I,Proportion of population aged 5-9 years
+DE1085I,Proportion of population aged 10-14 years
+DE2001I,Nationals as a proportion of population
+DE2001V,Nationals 
+DE2002I,EU foreigners as a proportion of population
+DE2002V,EU foreigners 
+DE2003I,Non-EU foreigners as a proportion of population
+DE2003V,Non-EU foreigners 
+DE2007I,Foreigners as a proportion of population
+DE2008I,Native-born as a proportion of population
+DE2008V,Native-born
+DE2009I,Foreign-born as a proportion of population
+DE2009V,Foreign-born 
+DE2010V,Foreign-born in a EU country
+DE2011V,Foreign-born in a non-EU country
+DE2012V,Foreigners
+DE3001V,Private households (excluding institutional households)
+DE3002I,Proportion of households that are 1-person households
+DE3002V,One person households
+DE3004I,Average size of households
+DE3005I,Prop. of households that are lone-parent households 
+DE3005V,Lone parent private households (with children aged 0 to under 18)
+DE3008I,Prop. households that are lone-pensioner households
+DE3008V,Lone pensioner (above retirement age) households
+DE3011I,Proportion of households with children aged 0-17
+DE3011V,Households with children aged 0 to under 18
+DE3016I,Lone parent households per 100 households with children aged 0-17
+DE3017V,Population living in private households (excluding institutional households)
+EC1001I,Activity rate
+EC1001V,"Economically active population, total"
+EC1002I,"Activity rate, male"
+EC1002V,"Economically active population, male"
+EC1003I,"Activity rate, female"
+EC1003V,"Economically active population, female"
+EC1010V,"Persons unemployed, total"
+EC1011I,"Unemployment rate, male"
+EC1011V,"Persons unemployed, male"
+EC1012I,"Unemployment rate, female"
+EC1012V,"Persons unemployed, female"
+EC1020I,Unemployment rate
+EC1145V,"Economically active population 55-64, total"
+EC1146V,"Economically active population 55-64, male"
+EC1147V,"Economically active population 55-64, female"
+EC1174V,"Economically active population, 20-64, total"
+EC1175V,"Economically active population, 20-64, male"
+EC1176V,"Economically active population, 20-64, female"
+EC1177V,"Persons employed, 20-64, total"
+EC1178V,"Persons employed, 20-64, male"
+EC1179V,"Persons employed, 20-64, female"
+EC1180V,"Persons employed, 55-64, total"
+EC1181V,"Persons employed, 55-64, male"
+EC1182V,"Persons employed, 55-64, female"
+EC2008I,Proportion of employment in agriculture fishery 
+EC2008V,"Employment in agriculture, fishery (NACE Rev. 2: A)"
+EC2009I,Prop. of employment in industries (NACE Rev.1.1 C-E)
+EC2009V,"Employment in mining, manufacturing, energy (NACE Rev. 2: B to E)"
+EC2020V,Total employment (work place based)
+EC2021V,All companies
+EC2022I,Proportion of employment in construction (NACE Rev.1.1 F)
+EC2022V,Employment in construction (NACE Rev. 2: F)
+EC2032V,"Employment in trade, transport, hotels, restaurants (NACE Rev. 2: G to I)"
+EC2033V,Employment in information and communication (NACE Rev. 2: J)
+EC2034V,Employment in financial and insurance activities (NACE Rev. 2: K)
+EC2035V,Employment in real estate activities (NACE Rev. 2: L)
+EC2036V,"Employment in professional, scientific and technical activities; administrative and support service activities (NACE Rev. 2: M and N)"
+EC2037V,"Employment in public administration, defence, education, human health and social work activities (NACE Rev. 2: O to Q)"
+EC2038V,"Employment in arts, entertainment and recreation; other service activities; activities of household and extra-territorial organizations and bodies (NACE Rev. 2: R to U)"
+EC2039V,Number of local units - all economic activities
+EC3039V,Median disposable annual household income
+EC3040V,Average disposable annual household income
+EC3064V,Persons living in households with very low work intensity (%)
+EC3065V,Persons at risk of poverty after social transfers (%)
+EC3066V,Severely materially deprived persons (%)
+EC3067V,Persons at risk of poverty or social exclusion (%)
+EN1002V,Total number of hours of sunshine per day
+EN1003V,Average temperature of warmest month
+EN1004V,Average temperature of coldest month
+EN1005V,Rainfall (litre/m2)
+EN2002V,Number of days ozone O3 concentrations exceed 120 µg/m3
+EN2003V,Number of hours nitrogen dioxide NO2 concentrations exceed 200 µg/m3
+EN2005V,Number of days particulate matter PM10 concentrations exceed 50 µg/m3
+EN2025V,Accumulated ozone concentration in excess 70 µg/m3
+EN2026V,Annual average concentration of NO2 (µg/m3)
+EN2027V,Annual average concentration of PM10 (µg/m3)
+EN2029I,Prop. of residents exposed to air traffic noise >55 dB(A) at night time
+EN2032I,Prop. of residents exposed to rail traffic noise >65 dB(A) at day time
+EN2033I,Prop. of residents exposed to road traffic noise >65 dB(A) at day time
+EN2035I,Prop. of residents exposed to road traffic noise >55 dB(A) at night time
+EN2036I,Prop. of residents exposed to rail traffic noise >55 dB(A) at night time
+EN2037V,Annual average concentration of PM2.5 (µg/m3)
+EN3003V,Total use of water
+EN3010V,Price of a m3 of domestic water (Euro)
+EN3011V,Percentage of the urban waste water load (in population equivalents) treated according to the applicable standard
+EN3012V,Share of population connected to potable drinking water system (%)
+EN3013V,Share of population connected to sewerage treatment system (%)
+EN4008V,"Municipal waste generated (domestic and commercial), total"
+EN5200V,Share of land (%): Continuous residential urban fabric
+EN5201V,Share of land (%): Discontinuous residential urban fabric
+EN5202V,"Share of land (%): Industrial, commercial, public, military and private units"
+EN5203V,Share of land (%): Transport infrastructure
+EN5204V,Share of land (%): Other artificial areas
+EN5205V,Share of land (%): Green urban areas and sports and leisure facilities
+EN5206V,Share of land (%): Agricultural areas
+EN5207V,Share of land (%): Natural areas
+SA1001V,Number of conventional dwellings
+SA1004V,Number of houses
+SA1005V,Number of apartments
+SA1007I,Proportion of households living in houses
+SA1007V,Number of households living in houses
+SA1008I,Proportion of households living in apartments
+SA1008V,Number of households living in apartments
+SA1011I,Proportion of households living in owned dwellings
+SA1011V,Households owning their own dwelling
+SA1012V,Households in social housing
+SA1013V,Households in private rented housing
+SA1018V,Dwellings lacking basic amenities
+SA1022V,Average area of living accommodation (m2 per person)
+SA1025V,Empty conventional dwellings
+SA1029V,Number of people in accommodation for the homeless
+SA1049V,Average annual rent for housing per m2
+SA1050V,Average price for buying a house
+SA1051V,Average price for buying an apartment
+SA1052V,Average price for buying a house per m2 - EUR
+SA1053V,Average price for buying an apartment  per m2 - EUR
+SA2004I,Infant mortality rate (per 1000 live births)
+SA2004V,Infant Mortality per year
+SA2007I,Crude birth rate (per 1000 inhabitants)
+SA2007V,Number of live births per year
+SA2010V,Number of adolescent births  (from mothers aged 10-14 years; aged 15-19 years)
+SA2013I,Mortality rate for individuals under 65 from heart diseases and respiratory illness
+SA2013V,Number of deaths per year under 65 due to diseases of the circulatory or respiratory systems
+SA2016I,Mortality rate for <65 per year
+SA2016V,Total deaths under 65 per year
+SA2017I,Mortality rate for <65 per year (Male)
+SA2017V,"Total deaths under 65 per year, male"
+SA2018I,Mortality rate for <65 per year (Female)
+SA2018V,"Total deaths under 65 per year, female"
+SA2019V,Total deaths per year
+SA2020V,"Total deaths per year, male"
+SA2021V,"Total deaths per year, female"
+SA2029I,Crude death rate (per 1000 inhabitants)
+SA3005V,Number of murders and violent deaths
+TE1001I,Number of Children 0-4 in day care (publ.&priv) per 1000 children 0-4
+TE1001V,Number of children 0-4 in day care or school
+TE1026I,Share of students in higher education in the total population (per 1000 persons)
+TE1026V,"Students in higher education (ISCED level 5-6), total"
+TE1027V,"Students in higher education (ISCED level 5-6), male"
+TE1028V,"Students in higher education (ISCED level 5-6), female"
+TE1039V,"Early leavers from education and training, total (%)"
+TE1040V,"Early leavers from education and training, male (%)"
+TE1041V,"Early leavers from education and training, female (%)"
+TE2025V,"Persons aged 25-64 with ISCED level 0, 1 or 2 as the highest level of education"
+TE2028I,Prop. of working age population qualified at level 3 or 4 ISCED
+TE2028V,Persons aged 25-64 with ISCED level 3 or 4 as the highest level of education
+TE2031I,Prop. of working age population qualified at level 5 or 6 ISCED
+TE2031V,"Persons aged 25-64 with ISCED level 5, 6, 7 or 8 as the highest level of education, from 2014 onwards"
+TT1003V,Percentage of journeys to work by car
+TT1006V,Percentage of journeys to work by motor cycle
+TT1007V,Percentage of journeys to work by bicycle
+TT1008V,Percentage of journeys to work by foot
+TT1010V,"Percentage of journeys to work by public transport (rail, metro, bus, tram)"
+TT1012V,Percentage of journeys to work by car or motor cycle
+TT1019V,Average time of journey to work (minutes)
+TT1020V,Average length of journey to work by private car (km)
+TT1057I,Number of registered cars per 1000 population
+TT1057V,Number of private cars registered
+TT1060I,People killed in road accidents per 10000 pop.
+TT1060V,Number of deaths in road accidents
+TT1064V,People commuting into the city
+TT1065V,People commuting out of the city
+TT1079V,Length of bicycle network (dedicated cycle paths and lanes)
+TT1080V,Cost of a combined monthly ticket (all modes of public transport) for 5-10 km in the central zone
+TT1081V,Cost of a taxi ride of 5 km to the centre at day time
+LAT,Latitude
+LONG,Longitude
